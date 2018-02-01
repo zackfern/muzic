@@ -1,0 +1,10 @@
+{
+  "name": "muzic-api",
+  "version": "0.0.1",
+  "description": "Backend for Muzic to handle authentication and API requests",
+  "main": "index.js",
+  "repository": "https://github.com/zackfern/muzic",
+  "author": "Zack Fernandes",
+  "license": "MIT",
+  "private": true
+}
